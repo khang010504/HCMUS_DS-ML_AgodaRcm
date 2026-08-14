@@ -1,1 +1,1 @@
-Để chạy được project này trên Windows, máy tính của bạn cần có Java JDK 11 và Hadoop 3.3.6 Winutils được cấu hình trong Environment Variables. Gõ pip install -r requirements.txt là ứng dụng sẽ chạy mượt mà không lo dính lỗi Java metadata hay đường dẫn
+To run this project on Windows, your computer needs **Java JDK 11** and **Hadoop 3.3.6 Winutils** configured in the Environment Variables. Simply run `pip install -r requirements.txt`, and the application should run smoothly without encountering Java metadata or path-related errors.
